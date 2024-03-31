@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "65feddc9e146f5d58d090dbd",
+        "name": "Nghêu hấp xả",
+        "categoryId": "65fee192e146f5d58d090dd8",
+        "active": true,
+        "price": 15000,
+        "description": "Nghêu tươi được hấp chín kỹ cùng với xả thơm nồng, tạo nên một hương vị đậm đà và hấp dẫn.",
+        "imageUrl": "http://localhost:3000\\uploads\\1711202387065.jpg",
+        "createdAt": "2024-03-23T13:48:57.714Z",
+        "updatedAt": "2024-03-23T13:59:47.172Z",
+        "__v": 0
+    },
+    {
+        "_id": "65fee0185a147406b7e69eb4",
+        "name": "Gà nướng mật ong và hành tỏi",
+        "categoryId": "65fee192e146f5d58d090dd8",
+        "active": true,
+        "price": 25000,
+        "description": "Miếng gà tươi được ướp mật ong thơm ngon và hành tỏi thơm lừng, sau đó được nướng chín vàng đều. Món này mang lại hương vị ngọt ngào và thơm phức, rất hấp dẫn cho thực khách.",
+        "imageUrl": "http://localhost:3000\\uploads\\1711202439540.jpg",
+        "updatedAt": "2024-03-23T14:00:39.645Z"
+    },
+    {
+        "_id": "65fee0185a147406b7e69eb5",
+        "name": "Cá hấp gừng",
+        "categoryId": "65fee192e146f5d58d090dd8",
+        "active": true,
+        "price": 18000,
+        "description": "Miếng cá tươi được ướp gia vị và hấp chín kỹ cùng với gừng thơm ngon, tạo nên một món ăn hấp dẫn và đậm đà. Món này thường được ăn kèm với cơm trắng, tạo thành một bữa ăn ngon và bổ dưỡng.",
+        "imageUrl": "http://localhost:3000\\uploads\\1711202528442.jpg",
+        "updatedAt": "2024-03-23T14:02:08.544Z"
+    },
+    {
+        "_id": "65fee0185a147406b7e69eb6",
+        "name": "Bò Mỹ nướng mắm nhỉ",
+        "categoryId": "65fee192e146f5d58d090dd8",
+        "active": true,
+        "price": 10000,
+        "description": "Bò nướng mắm nhỉ, ăn kèm rau sống, nước nắm và cơm trắng. Ngon hết nước chấm",
+        "imageUrl": "",
+        "updatedAt": "2024-03-23T14:12:46.983Z"
+    },
+    {
+        "_id": "65fee0185a147406b7e69eb7",
+        "name": "Cơm rang dưa cải và hải sản",
+        "categoryId": "65e80d45ca3eba56b7d7e609",
+        "active": true,
+        "price": 22000,
+        "description": "Cơm trắng được rang chín vàng cùng với dưa cải giòn và hải sản tươi ngon như tôm, mực, cá. Món này có hương vị đa dạng và phong phú, là một lựa chọn tuyệt vời cho bữa ăn gia đình hoặc bữa tiệc nhỏ.",
+        "imageUrl": "http://localhost:3000\\uploads\\1711202488798.jpg",
+        "updatedAt": "2024-03-23T14:01:28.896Z"
+    },
+    {
+        "_id": "65fee0185a147406b7e69eb8",
+        "name": "Mì Quảng tôm thịt",
+        "categoryId": "65e80d45ca3eba56b7d7e610",
+        "active": true,
+        "price": 18000,
+        "description": "Mì Quảng là một món ăn truyền thống của miền Trung Việt Nam, kết hợp giữa mì sợi dày và đủ màu sắc với các loại gia vị và nguyên liệu như tôm, thịt heo, rau sống và nước dùng thơm ngon. Món này mang lại hương vị đậm đà và hấp dẫn.",
+        "imageUrl": "http://localhost:3000\\uploads\\1711202471396.jpg",
+        "updatedAt": "2024-03-23T14:01:11.502Z"
+    }
+]
