@@ -1,8 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-  @font-face {
-    font-family: 'noto';
-    src: url("./assets/static/NotoSans-Bold.ttf");
-  }
+@font-face {
+    font-family: 'bevietnampro';
+    src: url(./assets/static/BeVietnamPro-Medium.ttf) format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'bevietnampro';
+    src: url(./assets/static/BeVietnamPro-Bold.ttf) format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'bevietnampro';
+    src: url(./assets/static/BeVietnamPro-Regular.ttf) format('truetype');
+    font-weight: normal;
+}
+
 

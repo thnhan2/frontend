@@ -2,6 +2,9 @@ import './App.css';
 import { BrowserRouter as Routers, Route, Routes } from 'react-router-dom';
 import LoginPage from './pages/Login';
 import Menu from './pages/Menu';
+import OrderPage from './pages/OrderPage';
+import OrderHistoryPage from './pages/OrderHistoryPage';
+import KitchenPage from './pages/KitchenPage';
 
 function App() {
     return (
@@ -15,6 +18,15 @@ function App() {
                             <Routes>
                                 <Route path="/" element={<LoginPage />} />
                                 <Route path="/home" element={<Menu />} />
+                                <Route path="/orders" element={<OrderPage />} />
+                                <Route
+                                    path="/history"
+                                    element={<OrderHistoryPage />}
+                                />
+                                <Route
+                                    path="/kitchen"
+                                    element={<KitchenPage />}
+                                />
                             </Routes>
                         </Routers>
                     </div>

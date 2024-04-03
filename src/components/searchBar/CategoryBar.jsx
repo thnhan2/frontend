@@ -47,7 +47,7 @@ const CategoryBar = ({ categories }) => {
                 <button
                     key={category._id}
                     onClick={() => handleCategoryClick(category._id)}
-                    className="py-2 px-4 bg-gradient-to-r from-green-400 to-blue-500 text-white transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-full m-1"
+                    className="py-2 px-4 bg-gradient-to-r from-yellow-500 to-orange-400 text-white transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2 rounded-full m-1"
                 >
                     {`${category.name} (${categoryCounts[category._id] || 0})`}
                 </button>

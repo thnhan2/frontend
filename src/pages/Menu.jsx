@@ -38,7 +38,7 @@ const Menu = () => {
                 searchValue={searchValue}
                 className="grid grid-cols-3 gap-4 mb-10"
             />
-            <BottomMenuBar activeItem={'home'} className="mt-5" />
+            <BottomMenuBar />
         </>
     );
 };

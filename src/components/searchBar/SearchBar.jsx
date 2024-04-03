@@ -16,10 +16,8 @@ const SearchBar = ({ onSearch }) => {
 
     return (
         <div
-            className="relative flex items-center justify-center pt-3 pb-3"
-            style={{
-                backgroundColor: '#FF7200',
-            }}
+            className="bg-palette1-primary relative flex items-center justify-center pt-3 pb-3"
+           
         >
             <div className="absolute left-10 overflow-hidden">
                 SOA Restaurant
